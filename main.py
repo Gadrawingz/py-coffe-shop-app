@@ -1,1 +1,4 @@
-print("Main app!")
+'''
+The main entry of app
+'''
+print("Hello")
